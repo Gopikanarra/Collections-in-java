@@ -1,0 +1,3 @@
+# Collections-in-java
+this is all about Java collection data structures which can make our hands dirty ....
+happy learning... :D
